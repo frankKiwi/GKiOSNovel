@@ -24,3 +24,4 @@
     效果图4、
 
 ![image](https://github.com/tianya2416/GKiOSNovel/blob/master/GKiOSNovel/GKiOSNovel/Class/Resource/4.png)
+  
